@@ -30,6 +30,6 @@ Reconnaissance techniques — passive & active information gathering.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn URL]
-- 🎯 TryHackMe: [Add your profile]
-- 🧪 HackTheBox: [Add your profile]
+- 💼 LinkedIn:   linkedin.com/in/sudharna-s-96ba672a2
+- 🎯 TryHackMe:  sudharnasudharna868
+- 🧪 HackTheBox: Pentester8
